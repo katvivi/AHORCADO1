@@ -11,9 +11,10 @@ main()
 			programa_vec(elec);
 			break;
 		case 2:
+                        printf(“Aqui falta una función”);
+                        //implementar funcion
 			break;
 		case 3:
 			break;
 	}
 }
-
